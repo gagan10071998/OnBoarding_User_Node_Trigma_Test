@@ -10,7 +10,7 @@ Create the schema/database model/structure in any SQL/NoSQL database
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full Name
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tDate of Birth
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Birth
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender
 
