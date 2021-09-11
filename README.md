@@ -8,19 +8,19 @@ Create the schema/database model/structure in any SQL/NoSQL database
 
 1.Create API for Register a user using:
 
-  \tFull Name
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full Name
 
-  \tDate of Birth
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tDate of Birth
 
-  Gender
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender
 
-  Email
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email
 
-  Mobile
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile
 
-  Password
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password
 
-  Status
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status
 
 2.Create an API for Login and generate a token on success
 
