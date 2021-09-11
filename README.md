@@ -8,9 +8,9 @@ Create the schema/database model/structure in any SQL/NoSQL database
 
 1.Create API for Register a user using:
 
-  Full Name
+  \tFull Name
 
-  Date of Birth
+  \tDate of Birth
 
   Gender
 
